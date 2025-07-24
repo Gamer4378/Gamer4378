@@ -1,1 +1,2 @@
-is creates a folder named assets
+Creating assets folder for images
+
