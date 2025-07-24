@@ -28,7 +28,7 @@
   <img src="assets/bukkit.png" height="30" alt="Bukkit" style="margin-right: 10px;" />
   <img src="assets/purpur.png" height="30" alt="Purpur" style="margin-right: 10px;" />
   <img src="assets/fabric.png" height="30" alt="Fabric" style="margin-right: 10px;" />
-  <img src="assets/forge.png" height="30" alt="Forge" style="margin-right: 10px;" />
+  <img src="assets/forge.jpg" height="30" alt="Forge" style="margin-right: 10px;" />
 </div>
 
 ---
