@@ -36,8 +36,8 @@
 ## 📊 My GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gamer4378&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamer4378&layout=compact&langs_count=7&theme=dark&hide_border=false" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gamer4378&show_icons=true&count_private=true&theme=dark&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamer4378&layout=compact&langs_count=7&theme=dark&hide_border=false&cache_seconds=1800" height="150" alt="Most Used Languages" />
 </div>
 
 ---
