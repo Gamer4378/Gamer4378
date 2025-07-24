@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I currently go by ItzOverWolf</h1>
+<h1>Hi there 👋, I'm ItzOverWolf</h1>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&animation=fadeIn" />
 
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
 
 
-## Tools I use for Minecraft Dev
+## Minecraft Stack
   <img src="assets/spigot.png" height="30" alt="Spigot" style="margin-right: 10px;" />
   <img src="assets/paper.png" height="30" alt="Paper" style="margin-right: 10px;" />
   <img src="assets/bukkit.png" height="30" alt="Bukkit" style="margin-right: 10px;" />
